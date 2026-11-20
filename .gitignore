@@ -1,0 +1,13 @@
+# Local lab files and generated hashes
+*.pdf
+*hash*.txt
+*.pot
+*.rec
+*.log
+*.zip
+*.7z
+*.exe
+*.dll
+*.msi
+john-*/
+Strawberry/
